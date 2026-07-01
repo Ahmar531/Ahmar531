@@ -16,7 +16,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/ahmar-khalid-29b0183b3">
+<a href="https://www.linkedin.com/in/ahmar-khalid-25787a418/?skipRedirect=true">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
